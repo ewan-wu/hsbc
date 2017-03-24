@@ -1,2 +1,0 @@
-# hsbc
-hsbc code
